@@ -4,7 +4,7 @@
 		background-color:black;
 		font-family: arial black;
 		text-align: center;
-		font-size:30px;
+		font-size:50px;
 		text-transform: uppercase;
 		
 		color: #fff;
@@ -27,7 +27,7 @@
 	#resultado{
 		padding: 30px;
 		min-height:50vh;
-		color: white;
+		
 
 
 	}

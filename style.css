@@ -132,9 +132,25 @@
   background: #c13584;
 }
 
+a{
+  color:red;
+  margin: 30px;
+  font-size: 20px;
+  text-align: center;
+  height: 10px;
+  
+}
+.fin{
+  padding: 20px;
+}
+
 footer{
- background: #000000DB;
  font-size: 10px;
  margin-top: 40px;
  margin: 30px;
+}
+
+.conteo{
+  font-size: 10px;
+  color:red;
 }

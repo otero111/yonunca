@@ -104,7 +104,7 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "He matado a un familiar en las mentiras a los profesores", 
 "Le dije compañera a un compañero sin querer",
 "He sido estafado",
-"me he excitado en público",
+/*"me he excitado en público",
 "he tenido sexo borracho",
 "he deseado follar con más de una persona a la vez.",
 "he pensado que soy mala hoja.",
@@ -136,7 +136,7 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "me he levantado mojada.",
 "he tenido un gatillazo haciendo el amor",
 " he besado a una persona de mi mismo sexo",
-"yo nunca he tenido ganas de acostarme con una amiga o amigo de mi novio o novia",
+"yo nunca he tenido ganas de acostarme con una amiga o amigo de mi novio o novia",*/
 
 ]; 
 	let l = textos.length

@@ -45,7 +45,6 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "He ido a salir con un piquete y he regresado con otro", 
 "Me he juntado con un piquete que ni conozco solo para emborracharme y pasar la noche", 
 "Me he masturbado en una casa agena", 
-"He ido caminando del Vedado o La Habana hasta mi casa", 
 "He sido asaltad@", 
 "Me he tocado el celular despues de tirarme un pedo para aparentar", 
 "Me mirado hacia atras despues de tirarme un pedo", 
@@ -104,7 +103,7 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "He matado a un familiar en las mentiras a los profesores", 
 "Le dije compañera a un compañero sin querer",
 "He sido estafado",
-/*"me he excitado en público",
+"me he excitado en público",
 "he tenido sexo borracho",
 "he deseado follar con más de una persona a la vez.",
 "he pensado que soy mala hoja.",
@@ -136,7 +135,13 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "me he levantado mojada.",
 "he tenido un gatillazo haciendo el amor",
 " he besado a una persona de mi mismo sexo",
-"yo nunca he tenido ganas de acostarme con una amiga o amigo de mi novio o novia",*/
+"yo nunca he tenido ganas de acostarme con una amiga o amigo de mi novio o novia",
+"He carecido de deseo sexual",
+"He sido visto en el baño defencando",
+"He mentido para encajar en un grupo",
+"Le he contado algo a alguien y luego me he arrepentido",
+
+
 
 ]; 
 	let l = textos.length

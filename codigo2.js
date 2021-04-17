@@ -140,6 +140,8 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "He sido visto en el baño defencando",
 "He mentido para encajar en un grupo",
 "Le he contado algo a alguien y luego me he arrepentido",
+"Me he bañado desnud@ en la playa",
+"Me he enamorado de un familiar de mi novi@",
 
 
 

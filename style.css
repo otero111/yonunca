@@ -232,18 +232,7 @@ footer{
   font-size: 10px;
 }
 
-.a {
- -webkit-transition: -webkit-transform 1s ease-out;
- -moz-transition: -moz-transform 1s ease-out;
- transition: transform 1s ease-out;
-}
-.a:hover {
- -webkit-transform: rotate(460deg);
- -moz-transform: rotate(460deg);
- transform: rotate(460deg);
- border-radius: 100%;
- background: #3A3A3A;
-}
+
 
 .coopere{
   font-size: 20px;

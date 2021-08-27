@@ -142,6 +142,137 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "Le he contado algo a alguien y luego me he arrepentido",
 "Me he bañado desnud@ en la playa",
 "Me he enamorado de un familiar de mi novi@",
+"Yo Nunca Me Eh Caído De La Cama",
+"Yo nunca eh jugado de Mano con mi Novi@ En La Cama",
+"Yo nunca he ayudado a un amigo a cubrir una infidelidad",
+"Yo nunca he visto a mi herman@ desnud@",
+"Yo nunca le he escupido en la cara a alguien",
+"Yo nunca he dormido en la playa",
+"Yo nunca he chupado sangre ",
+"Yo nunca le he dicho a alguien: ¿te casarías conmigo?",
+"Yo nunca he comido en clases a escondidas",
+"Yo Nunca me había reído tan fuerte que me tirara un pedo",
+"Yo Nunca he vomitado a un amigo",
+"Nunca he revisado las redes para recordar la noche anterior.",
+"Yo Nunca me he reído tan fuerte que oriné un poco ",
+"Yo nunca he intentado bañarme en una fuente ",
+"Yo nunca he intentado impresionar a alguien que me odia",
+"A mí nunca se me ha caído algún objeto al inodoro ",
+"Yo nunca he peleado porque se han comido algo mío ",
+"Yo Nunca me he sacado los mocos en público.",
+"Yo Nunca he sido arrestado",
+"Yo nunca he comido una hormiga.",
+"Yo nunca he sido perseguido por un perro. ",
+"Yo Nunca he cambiado un neumático de coche.",
+"Yo nunca he sentido asco por besar al alguien",
+"Yo nunca he comido una banana u otra fruta de forma sexy ",
+"Yo nunca he buscado pornografía en internet ",
+"Yo nunca he utilizado la foto de mi pareja como fondo de pantalla",
+"Yo nunca he salido del baño mojad@ a cambiar un canción ",
+"Yo nunca he mantenido una relación con alguien de otro país por interés",
+"Yo nunca he metido los dedos en un tomacorrientes",
+"Yo nunca he pagado por un masaje con final feliz ",
+"Yo nunca he discutido con mi suegra",
+"Yo nunca he pensado meterme un pepino en el ano",
+"Yo nunca he mentido sobre mi virginidad",
+"Yo nunca he pensado en alguien del mismo sexo para masturbarme sin ser homosexual",
+"Yo nunca le pedido a mi novio que me folle por atrás ",
+"Yo nunca he zorreado con el o la vecina ",
+"Yo nunca he comparado en mi mente las vaginas o los penes d mis ex",
+"Yo nunca me he acostado con hambre ",
+"Yo nunca he dicho te amo a alguien",
+"Nunca he ayudado a un/una amig@ a estar con alguien que tambien me gusta",
+"Yo nunca he ofendido a alguien y me he arrepentido",
+"Yo nunca he amado mucho a alguien ",
+"Yo nunca he tenido sexo en una escalera",
+"Yo nunca he pensado como follan mis amigos ",
+"Yo nunca me he masturbado pensando en un@ de los presentes",
+"Yo nunca me he hecho pasaron por otra persona y le he escrito a mi pareja",
+"Yo nunca he escrito mi nombre en la mesa de un restaurante, cafetería, bar",
+"Yo nunca he subido fotos hot a las redes para que m den like y comenten",
+"Yo nunca me he metido un lápiz en el oído ",
+"A mí nunca se me ha ofrecido la o el ex de un amig@ ",
+"Yo nunca he tenido pensamientos eróticos con alguien que acabo de ver en la calle ",
+"Yo nunca he creado mi propia bebida especial",
+"Yo nunca he pensado que no voy a madurar nunca ",
+"Yo nunca he esperado a que la fiesta termine para poder llevarme los globos",
+"Yo nunca he cocinado desnud@",
+"Yo nunca he tenido relaciones sexuales con un extrañ@ sin condon",
+"Yo nunca he estado de mal humor por llevar tiempo sin follar ",
+"Yo nunca he mantenido un tatuaje en secreto",
+"Yo nunca perdido pelo por la ansiedad ",
+"Yo nunca le he cobrado a mis padres por hacer tareas",
+"Yo nunca he tenido relaciones con mi herman@",
+"Yo nunca me he ahogado tomando ron",
+"Yo nunca he forzado a mi pareja a tener sexo",
+"Yo nunca he usado rompa interior del sexo contrario",
+"Yo nunca me he grabado follando",
+"Yo nunca me he grabado masturbandome",
+"Yo nunca he follado con alguien por un reto",
+"Yo nunca he hecho un trío por un reto",
+"Yo nunca he odiado a mi cuñado",
+"Yo nunca he mantenido una relación por un buen tiempo con una persona que conocí por redes",
+"Yo nunca he ofendido mucho a alguien y después me he arrepentido mucho",
+"Yo nunca estaba chismeando por la ventana y me cogieron",
+"Yo nunca dije estar con la regla para no tener sexo",
+"Yo nunca rechacé a alguien porque siempre olía mal",
+"Yo nunca me he sentido inseguro de mi mismo",
+"Yo nunca evité a toda costa responder a una pregunta",
+"Yo nunca he guardado un secreto que me ha estado consumiendo por mucho tiempo",
+"Yo nunca le hice sexo oral a mi pareja cuando alguien estaba muy cerca",
+"Yo nunca me puse de mal humor por no llegar al orgasmo",
+"Yo nunca he he querido ver a mi prim@ desnud@ ",
+"Nunca me ha gustado una persona menor de edad",
+"Yo nunca he terminado follando con alguien que al inicio de conocerl@ me ha caído muy mal",
+"Yo nunca he querido ser muy popular",
+"Yo nunca me he desmotivado de lograr un sueño",
+"Yo nunca he salido con alguien solo porque tiene mucho dinero",
+"Yo nunca he sido la persona q vive poniendo estados en whatsspp a toda hora",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

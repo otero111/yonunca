@@ -158,19 +158,19 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "Yo nunca he intentado bañarme en una fuente ",
 "Yo nunca he intentado impresionar a alguien que me odia",
 "A mí nunca se me ha caído algún objeto al inodoro ",
-"Yo nunca he peleado porque se han comido algo mío ",
-"Yo Nunca me he sacado los mocos en público.",
-"Yo Nunca he sido arrestado",
-"Yo nunca he comido una hormiga.",
-"Yo nunca he sido perseguido por un perro. ",
-"Yo Nunca he cambiado un neumático de coche.",
-"Yo nunca he sentido asco por besar al alguien",
-"Yo nunca he comido una banana u otra fruta de forma sexy ",
-"Yo nunca he buscado pornografía en internet ",
-"Yo nunca he utilizado la foto de mi pareja como fondo de pantalla",
-"Yo nunca he salido del baño mojad@ a cambiar un canción ",
-"Yo nunca he mantenido una relación con alguien de otro país por interés",
-"Yo nunca he metido los dedos en un tomacorrientes",
+" he peleado porque se han comido algo mío ",
+" me he sacado los mocos en público.",
+" he sido arrestado",
+" he comido una hormiga.",
+" he sido perseguido por un perro. ",
+" he cambiado un neumático de coche.",
+" he sentido asco por besar al alguien",
+"he comido una banana u otra fruta de forma sexy ",
+"he buscado pornografía en internet ",
+"he utilizado la foto de mi pareja como fondo de pantalla",
+"he salido del baño mojad@ a cambiar un canción ",
+"he mantenido una relación con alguien de otro país por interés",
+"he metido los dedos en un tomacorrientes",
 "Yo nunca he pagado por un masaje con final feliz ",
 "Yo nunca he discutido con mi suegra",
 "Yo nunca he pensado meterme un pepino en el ano",
@@ -228,6 +228,20 @@ alert("Instrucciones: Debe de tomar un trago cuando usted si hizo lo que le dice
 "Yo nunca me he desmotivado de lograr un sueño",
 "Yo nunca he salido con alguien solo porque tiene mucho dinero",
 "Yo nunca he sido la persona q vive poniendo estados en whatsspp a toda hora",
+"Yo nunca he salido sin ropa interior a la calle ",
+"Yo nunca he peleado por un pedazo de pizza",
+"Yo nunca he caminado descalz@ por la calle tras haber roto mis zapatos",
+"Yo nunca me he orinado de la risa",
+"Yo nunca he tropezado en la calle frente a todos",
+"Yo nunca he llorado frente a todos",
+"Yo nunca he besado a una mascota en la boca ",
+"Yo nunca me enamoré de mi mejor amig@ ",
+"Yo nunca miré la Polla de mi amigo mientras meábamos para saber si la tenia más grande que yo...",
+
+
+
+
+
 
 
 
